@@ -138,7 +138,8 @@ val retrofit = Retrofit.Builder()
 Les captures suivantes illustrent l’interface utilisateur :
 
 ### 1) Ajout / Modification d’un compte
-<img width="1024" height="1536" alt="tp102" src="https://github.com/user-attachments/assets/d68c9b46-5787-4325-8935-e04111f88ce3" />
+
+<img width="1005" height="1189" alt="tp102" src="https://github.com/user-attachments/assets/298f9c36-3c49-4247-ad55-b4db2d72599b" />
 
 
 ### 2) Affichage de la liste des comptes
@@ -146,7 +147,8 @@ Les captures suivantes illustrent l’interface utilisateur :
 
 
 ### 3) Confirmation de suppression
-<img width="1024" height="1536" alt="tp103" src="https://github.com/user-attachments/assets/a2186865-42f8-4c62-86c7-f5ed3e0e37cc" />
+<img width="1024" height="1536" alt="tp101" src="https://github.com/user-attachments/assets/75650c02-2001-4950-aa7d-1b83e757a143" />
+
 
 
 ---
