@@ -151,8 +151,8 @@ Les captures suivantes illustrent l’interface utilisateur :
 ### 3) Confirmation de suppression
 
 
+<img width="1696" height="1484" alt="7777" src="https://github.com/user-attachments/assets/00831b5e-ba45-4f64-a927-759d3f833325" />
 
-<img width="1696" height="2316" alt="7777" src="https://github.com/user-attachments/assets/dd3026a1-ccd8-4a63-ae43-4c007afded80" />
 
 ---
 
