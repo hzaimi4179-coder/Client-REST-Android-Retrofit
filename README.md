@@ -131,9 +131,6 @@ val retrofit = Retrofit.Builder()
     .build()
 ```
 
----
-
-##  Captures d'écran
 
 Les captures suivantes illustrent l’interface utilisateur :
 
