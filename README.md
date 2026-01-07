@@ -139,16 +139,17 @@ Les captures suivantes illustrent l’interface utilisateur :
 
 ### 1) Ajout / Modification d’un compte
 
-<img width="1005" height="1189" alt="tp102" src="https://github.com/user-attachments/assets/298f9c36-3c49-4247-ad55-b4db2d72599b" />
+
+<img width="1024" height="1536" alt="xq3" src="https://github.com/user-attachments/assets/dcb7271a-12b6-49dc-935a-f0ea4a434d51" />
 
 
 ### 2) Affichage de la liste des comptes
-<img width="1024" height="1536" alt="tp103" src="https://github.com/user-attachments/assets/117466af-ac53-43ac-9d73-68ef922b6283" />
+<img width="1024" height="1536" alt="xq2" src="https://github.com/user-attachments/assets/e1a167d7-4a08-4c3c-a390-5e746b6fcd8e" />
 
 
 ### 3) Confirmation de suppression
-<img width="1024" height="1536" alt="tp101" src="https://github.com/user-attachments/assets/75650c02-2001-4950-aa7d-1b83e757a143" />
 
+<img width="1024" height="1536" alt="xq1" src="https://github.com/user-attachments/assets/47608111-04a2-40cf-a3a5-dca3d6c220b7" />
 
 
 ---
