@@ -138,13 +138,15 @@ Les captures suivantes illustrent l’interface utilisateur :
 
 
 
-<img width="848" height="1162" alt="5555" src="https://github.com/user-attachments/assets/f8186b7d-2350-442d-ac7b-46c3fd9f9dd2" />
+<img width="848" height="617" alt="5555" src="https://github.com/user-attachments/assets/01d9e817-fc0d-4706-8121-6f43538a0f65" />
+
 
 
 
 
 ### 2) Affichage de la liste des comptes
-<img width="1696" height="2282" alt="66666" src="https://github.com/user-attachments/assets/f719a43b-a7b7-48df-922f-e6be596be719" />
+<img width="1696" height="1174" alt="66666" src="https://github.com/user-attachments/assets/147d493b-52be-4523-880c-7174acdfc846" />
+
 
 
 
